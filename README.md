@@ -7,7 +7,7 @@
 ・Python 2.7.12
 
 # 使い方
-./solver-sudoku.py sudoku9x9.txt
+./solver-sudoku.py sample/sudoku9x9.txt
 
 入力は
 
